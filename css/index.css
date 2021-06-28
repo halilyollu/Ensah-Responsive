@@ -1,0 +1,495 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.div-anasayfa{
+    width: 100%;
+    height: auto;
+    background-color: #ececec;
+}
+
+.div-1{
+    width: 100%;
+    display: flex;
+    background: url(../img/bg.png),url(../img/bg2.jpg);
+    background-size: 100% 75%, 100% 75%;
+    background-repeat: no-repeat,no-repeat;
+    min-height: 48rem;
+    position: relative;
+}
+.div-1-top{
+    width: 100%;
+}
+
+.logo{
+    position: absolute;
+    top: 5%;
+    left: 7%;
+}
+
+.logo img{
+    height: 4rem;
+}
+
+.menu{
+    display: flex;
+    position: relative;
+}
+
+ul{
+    display: flex;
+    margin-top: 5%;
+    padding: 0 20%;
+    margin: 5% 0%;
+    margin-left: 10%;
+}
+
+ul li{
+    list-style-type: none;
+    margin: 0 1rem;
+}
+
+ul li a{
+    text-decoration: none;
+    color: #3c4349;
+}
+
+.div-1-gray{
+    background-color: #969fa6;
+    background-image: url(../img/gri-bg.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 90%;
+    height: 40rem;
+    position: absolute;
+    top: 8rem;
+}
+
+.div-1-gray-p{
+    width: 25%;
+    height: auto;
+    min-height: 10rem;
+    color: #4a555d;
+    position: absolute;
+    top: 40%;
+    left: 10%;
+}
+
+#p-baslik{
+    font-size: 160%;
+}
+
+.div-1-gray-p h1{
+    font-size: 220%;
+}
+
+.div-1-gray-p p{
+    font-size: 150%;
+}
+
+.div-1-gray-right{
+    position: absolute;
+    top: 30%;
+    right: 10%;
+    width: 33%;
+}
+
+.div-1-gray-right img{
+    height: auto;
+    width: 100%;
+}
+
+.div-1-red{
+    background-color: #da2300;
+    width: 10%;
+    height: 9rem;
+    position: absolute;
+    right: 0;
+    bottom: 7%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.div-1-red-img img{
+    height: 5rem;
+}
+
+.div-2{
+    width: 100%;
+    display: block;
+    padding-top: 5%;
+    position: relative;
+}
+
+.div-2-icerik img{
+    height: 4rem;
+    float: left;
+    padding-right: 1%;
+}
+
+.div-2{
+    margin-top: 5%;
+}
+
+.div-2-icerik{
+    width: 55%;
+    padding-left: 10%;
+    color: #52585d;
+}
+
+.div-2-icerik h2{
+    font-size: 1.7rem;
+}
+
+#h2-red{
+    background-color: #da2300;
+    color: white;
+    display: inline-block;
+    padding: 0.2rem;
+    margin-top: 1rem;
+    font-size: 1.3rem;
+}
+
+.div-2-icerik p{
+    margin-top: 7%;
+    width: 85%;
+    padding-left: 9%;
+}
+
+.div-2-foto{
+    display: flex;
+    width: 65%;
+    margin-left: 10%;
+    margin-top: 5%;
+    padding-left: 6%;
+    justify-content: space-between;
+    color: #52585d;
+}
+
+.div-3{
+    width: 100%;
+    background-color: #4a555d;
+    color: white;
+    margin-top: 10%;
+    position: relative;
+}
+
+.div-3-icerik{
+    padding-top: 2%;
+    padding-left: 15%;
+    min-height: 20rem;
+}
+
+.div-3-icerik h2{
+    font-size: 1.7rem;
+}
+
+#div-3-h2-red{
+    font-size: 1.3rem;
+    background-color: #da2300;
+    display: inline-block;
+    padding: 0.2rem;
+    margin-top: 0.5rem;
+}
+
+.div-3-icerik p{
+    margin-top: 2%;
+    width: 70%;
+}
+
+.div-3-logo{
+    display: flex;
+    width: 80%;
+    position: absolute;
+    top: 85%;
+    left: 10%;
+    background-color: white;
+    z-index: 1;
+}
+
+.div-3-logo-foto{
+    width: 20%;
+    border-right: 1px solid gray;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.div-3-logo-foto-dif{
+    border-right: 1px solid gray;
+    width: 20%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.div-3-logo-foto-dif1{
+    padding: 0%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 20%;
+}
+
+.div-3-logo-foto-dif img{
+    height: 50%;
+    margin-right: 0;
+    padding: 0;
+}
+
+.div-3-logo-foto-dif1 img{
+    height: 50%;
+    margin-right: 0;
+    padding: 0;
+}
+
+.div-3-logo-foto img{
+    height: 50%;
+    margin-right: 0;
+    padding: 0%;
+}
+
+.div-4{
+    width: 100%;
+    color: #4a555d;
+}
+
+.div-4-baslik{
+    padding-top: 10%;
+    padding-left: 15%;
+}
+
+.div-4-h2-red{
+    background-color: #da2300;
+    display: inline-block;
+    color: white;
+    padding:0.2rem;
+    margin-top: 0.6rem;
+}
+
+.div-4-box{
+    display: flex;
+    text-align: center;
+    justify-content: space-evenly;
+    margin-top: 5%;
+}
+
+.box{
+    border: 1px solid #4a555d;
+    width: 15%;
+    padding-bottom: 1rem;
+    margin-bottom: 3rem;
+}
+
+.box-dif{
+    border: 1px solid #4a555d;
+    width: 15%;
+    background-color: #4a555d;
+    color: white;
+}
+
+.box img{
+    height: 3rem;
+    padding-top: 2rem;
+    padding-bottom: 1rem;
+}
+
+.box-dif img{
+    height: 3rem;
+    padding-top: 2rem;
+    padding-bottom: 1rem;
+}
+
+.div-4-gray{
+    background-color: #4a555d;
+    color: white;
+    margin-top: 0rem;
+}
+
+.div-4-gray-icerik{
+    padding-top: 5rem;
+    padding-left: 10rem;
+    padding-bottom: 10rem;
+    width: 70%;
+}
+
+.div-5{
+    width: 100%;
+}
+
+.div-5-baslik{
+    padding-top: 10%;
+    padding-left: 15%;
+    color: #4a555d;
+}
+.div-5-h2-red{
+    background-color: #da2300;
+    display: inline-block;
+    color: white;
+    padding:0.2rem;
+    margin-top: 0.6rem;
+}
+
+.div-5-referanslar{
+    display: flex;
+    width: 100%;
+    margin-top: 5rem;
+    position: relative;
+    justify-content: center;
+}
+
+.div-5-referanslar-box{
+    width: 33%;
+    position: relative;
+    margin: 0 0.1%;
+}
+
+.box-bg{
+    width: 100%;
+    height: 100%;
+}
+
+.box-logo{
+    width: 20%;
+    position: absolute;
+    top: 40%;
+    padding: 0 40%;
+}
+
+.daire{
+    display: flex;
+    position: absolute;
+    top: 85%;
+    padding: 0 0%;
+    height: 25%;
+}
+
+.daireler{
+    height: 95%;
+}
+
+.sol-daire{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.sag-daire{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.ok{
+    position: absolute;
+    height: 15%;
+}
+
+.sol-ok{
+    position: absolute;
+}
+
+.sag-ok{
+    position: absolute;
+}
+
+.div-6{
+    width: 100%;
+    background-color: #4a555d;
+    color: white;
+    margin-right: 2%;
+}
+
+.footer{
+    margin: 0 10%;
+    width: 80%;
+    padding: 10% 0;
+    display: flex;
+    justify-content: space-between;
+}
+
+.ensah{
+    width: 30%;
+    font-size: 0.8rem;
+}
+
+.footer-ensah{
+    height: 4rem;
+    margin-bottom: 10%;
+}
+
+.footer-p{
+    color: #8c959c;
+}
+
+.footer-p-dif{
+    margin-bottom: 30%;
+}
+
+.footer-sosyal{
+    padding: 0 20%;
+    height: 2rem;
+}
+
+.footer-urun-grup{
+    width: 28%;
+    margin: 2% 0%;
+}
+
+.footer-h3{
+    margin-bottom: 10%;
+}
+
+.footer-urun-grup p{
+    padding: 2% 0;
+    font-size: 0.8rem;
+}
+
+.footer-kategori{
+    width: 28%;
+    margin: 2% 0%;
+}
+
+.footer-kategori p{
+    padding: 2% 0;
+    font-size: 0.8rem;
+}
+
+.menu .icon{
+    display: none;
+}
+
+.menu .icon div{
+    width: 20%;
+    height: 5rem;
+    background-color: #52585d;
+}
+
+.menu a:hover{
+    color: #969fa6;
+}
+
+.div-1-red:hover{
+    opacity: 0.8;
+    cursor: pointer;
+}
+
+.div-2-foto-logo:hover{
+    opacity: 0.6;
+}
+
+.div-5-referanslar-box:hover{
+    opacity: 0.8;
+}
+
+.sol-daire:hover{
+    opacity: 0.8;
+    cursor: pointer;
+}
+
+.sag-daire:hover{
+    opacity: 0.8;
+    cursor: pointer;
+}

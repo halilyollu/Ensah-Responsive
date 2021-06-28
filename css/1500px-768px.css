@@ -1,0 +1,35 @@
+@media (max-width:1500px) {
+    ul{
+        margin-top: 5%;
+        padding: 0px 0px;
+        margin: 6rem 15rem;
+        margin-left: 20%;
+        font-size: 0.9rem;
+    }
+
+    ul li{
+        margin: 0 1rem;
+    }
+
+    .logo{
+        top: 2%;
+        left: 5%;
+    }
+
+    .div-1-gray-p{
+        width: 31%;
+        top: 28%;
+    }
+
+    .div-2-icerik{
+        width: 68%;
+    }
+
+    .div-2-icerik p{
+        padding-left: 11%;
+    }
+
+    .div-2-foto{
+        padding-left: 12%;
+    }
+}

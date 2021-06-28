@@ -1,0 +1,382 @@
+@media (max-width: 768px) {
+  .div-anasayfa{
+      width: 100%;
+  }
+  
+    .logo img{
+    height: 3rem;
+}
+
+.logo{
+    top: 1.5rem !important;
+    left: 3rem !important;
+}
+
+.menu{
+    justify-content: center;
+}
+
+ul{
+    margin-top: 5rem !important;
+    margin-left: 0% !important;
+    width: 100%;
+    padding-right: 0% !important;
+    margin-right: 0 !important;
+    margin-bottom: 0 !important;
+}
+
+ul li{
+    margin: 0 0rem !important;
+}
+
+ul li a{
+    font-size: 1rem !important;
+}
+
+.div-1{
+    min-height: 25rem;
+}
+
+.div-1-gray{
+    height: 20rem;
+    top: 5rem;
+    background-size: contain;
+}
+
+.div-1-gray-p{
+    min-height: 5rem;
+    top: 7rem;
+    left: 5rem;
+}
+
+#p-baslik{
+    font-size: 1rem;
+}
+
+.div-1-gray-p h1{
+    font-size: 1.5rem;
+}
+
+.div-1-gray-p p{
+    font-size: 0.75rem;
+}
+
+.div-1-gray-right img{
+    height: auto;
+}
+
+.div-1-red{
+    height: 5rem;
+    top: 18rem;
+}
+
+.div-1-red-img{
+    justify-content: center;
+}
+
+.div-1-red-img img{
+    height: 3rem;
+}
+
+.div-2{
+    width: 80%;
+    margin-top: 5%;
+    padding-left: 0%;
+    margin-right: 5%;
+}
+
+.div-2-icerik img{
+    height: 2.5rem;
+    padding-left: 2%;
+}
+
+.div-2-icerik{
+    width: 80% !important;
+    margin-left: 0.5rem;
+    padding-left: 0%;
+}
+
+.div-2-icerik h2{
+    font-size: 1.1rem;
+}
+
+#h2-red{
+    font-size: 1rem;
+    margin-top: 0.5rem;
+}
+
+.div-2-icerik p{
+    width: 90%;
+    font-size: 0.8rem;
+    margin-top: 1rem;
+    padding-left: 12% !important;
+}
+
+.div-2-foto{
+    width: 80%;
+    margin-left: 2rem;
+    padding-left: 10% !important;
+}
+
+.div-2-foto img{
+    height: 3rem;
+}
+
+.div-2-foto p{
+    font-size: 0.8rem;
+}
+
+.div-3{
+    width: 100%;
+    margin-top: 10%;
+}
+
+.div-3-icerik{
+    padding-left: 10%;
+    padding-bottom: 15%;
+}
+
+.div-3-icerik h2{
+    font-size: 1.5rem;
+}
+
+#div-3-h2-red{
+    font-size: 1.2rem;
+}
+
+.div-3-icerik p{
+    width: 80%;
+    font-size: 1.2rem;
+}
+
+.div-3-logo{
+    top: 85%;
+    left: 10%;
+}
+
+.div-3-logo-foto{
+    justify-content: space-around;
+}
+
+.div-3-logo-foto-dif{
+    padding-top: 2%;
+}
+
+.div-3-logo-foto-dif1{
+    padding-top: 6%;
+    padding-bottom: 6%;
+}
+
+.div-3-logo-foto img{
+    height: 2rem;
+    padding: 20% 5%;
+}
+
+.div-3-logo-foto-dif img{
+    height: 2rem;
+    margin-right: 0%;
+    padding: 20%;
+}
+
+.div-3-logo-foto-dif1 img{
+    height: 2rem;
+    margin-right: 1%;
+    padding: 5% 10%;
+}
+
+.div-4{
+  width: 100%;
+}
+
+.div-4-baslik{
+  padding-top: 15%;
+  padding-left: 10%;
+  font-size: 1rem;
+}
+
+.div-4-h2-red{
+  padding:0.2rem;
+  font-size: 1rem;
+}
+ 
+.div-4-box{
+  width: 80%;
+  text-align: center;
+  justify-content: space-between;
+  padding-left: 10%;
+  padding-right: 10%;
+}
+
+.box{
+  width: 23%;
+  padding-bottom: 1rem;
+}
+
+.box-dif{
+  width: 23%;
+  padding-bottom: 1rem;
+}
+
+.div-4-gray{
+  margin-top: 0%;
+}
+
+.div-4-gray-icerik{
+  padding-top: 10%;
+  padding-left: 15%;
+  padding-right: 10%;
+  padding-bottom: 10%;
+  width: 75%;
+  text-align: center;
+}
+
+.div-5{
+  width: 100%;
+}
+
+.div-5-baslik{
+  padding-top: 5%;
+  padding-left: 10%;
+}
+.div-5-h2-red{
+  padding:0.2rem;
+  margin-top: 0.6rem;
+}
+
+.div-5-referanslar{
+  width: 100%;
+  margin-top: 5%;
+}
+
+.div-5-referanslar-box{
+  width: 33%;
+}
+
+.box-bg{
+  width: 100%;
+}
+
+.box-logo{
+  width: 20%;
+}
+
+.daire{
+    
+    padding: 0 0%;
+}
+
+.daireler{
+    height: 80%;
+}
+
+.ok{
+    position: absolute;
+    height: 20%;
+}
+
+.sol-ok{
+    position: absolute;
+}
+
+.sag-ok{
+    position: absolute;
+}
+
+.div-6{
+    width: 100%;
+    margin-right: 5%;
+}
+
+.footer{
+    margin: 0 10%;
+    width: 80%;
+    padding: 10% 0;
+    display: inline-block;
+}
+
+.ensah{
+    width: 100%;
+    font-size: 1.5rem;
+    text-align: center;
+}
+
+.footer-ensah{
+    height: 3rem;
+    margin-bottom: 5%;
+}
+
+.footer-p-dif{
+    margin-bottom: 10%;
+}
+
+.footer-sosyal{
+    padding: 0 30%;
+    height: 2rem;
+}
+
+.footer-urun-grup{
+    width: 100%;
+    margin: 20% 0%;
+    text-align: center;
+    font-size: 1.5rem;
+}
+
+.footer-h3{
+    margin-bottom: 5%;
+}
+
+.footer-urun-grup p{
+    padding: 2% 0;
+    font-size: 1.2rem;
+}
+
+.footer-kategori{
+    width: 100%;
+    margin: 2% 0%;
+    text-align: center;
+    font-size: 1.5rem;
+}
+
+.footer-kategori p{
+    padding: 2% 0;
+    font-size: 1.2rem;
+}
+
+.menu #basliklar{
+    display: none;
+    z-index: 1;
+}
+
+.menu a{
+    color: white;
+    background-color: #4a555d;
+    display: block;
+    padding: 1rem 0.5rem;
+}
+
+.menu a.icon{
+    position: absolute;
+    background-color: transparent;
+    right: 0.5rem;
+    top: 2rem;
+    color:#4a555d;
+    display: block;
+}
+
+.menu a:hover{
+    background-color: #1c1c1c;
+    border-radius: 5px;
+    color: white;
+    margin-left: 2rem;
+    transition: margin-left 1s;
+}
+
+.menu .icon:hover{
+    background-color: transparent;
+    color: #4a555d;
+    border: 0px;
+    transform: rotate(90deg);
+    transition: transform 1s;
+}
+
+}
